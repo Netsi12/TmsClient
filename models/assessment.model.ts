@@ -27,3 +27,11 @@ item.functionalityScore * 0.7 + item.codeQualityScore * 0.3,
 }
 }
 
+// // Legacy 27 impossible states allowed
+// interface EnrollmentBad {
+// isPending: boolean;
+// isApproved: boolean;
+// isActive: boolean;
+// isCompleted: boolean;
+// isDropped: boolean;
+// }
